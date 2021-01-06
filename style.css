@@ -1,0 +1,138 @@
+body {
+  margin: 0 auto;
+  font-family: "Nunito", sans-serif;
+}
+ul {
+  width: auto;
+  float: right;
+  padding: 10px;
+}
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #3c3c3c;
+}
+.menu {
+  height: 90px;
+  margin-right: 130px;
+}
+h1{
+    font-size: 50px;
+}
+.color-highlight{
+    color: #FF8367;
+    
+}
+section {
+  height: 500px;
+  margin-top: 2%;
+
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+img {
+  width: 90%;
+}
+.button{
+    background-image: linear-gradient(45deg, #F76761,#FB7362);
+    font-size: 17px;
+    color: #ffffff;
+    padding: 10px 35px;
+    border-radius: 5%;
+}
+h2{
+    text-align: center;
+    margin: 4% 0%;
+    padding-top: 2%;
+}
+.latest-project{
+    background-color: #F8F9FC;
+}
+.latest-container{
+    padding-left: 17%;
+}
+.latest-container img{
+    width: 100%;
+    height: 50%;
+}
+.single-project{
+    float: left;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 3%;
+    width: 23%;
+    padding: 1%;
+    margin-right: 2%;
+}
+.inquiry{
+    padding: 3% 16%;
+    height: 200px;
+}
+.inquiry-container{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 900px;
+    height: 225px;
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+.text-inquiry{
+    margin-top: 10%;
+    margin-left: 3%;
+    color: honeydew;
+}
+.inquiry-button{
+    margin-top: -10%;
+    margin-left: 70%;
+    text-align: center;
+}
+.links-container{
+    background-color: #F8F9FC;
+    height: 250px;
+}
+.links-container h3{
+    text-align: center;
+    border: 2px solid #F96B62;
+    margin: 5% 32%;
+    
+}
+.links-container ul{
+    padding-right: 39%;
+    margin-top: -15px;
+}
+.links li{
+    display: list-item;
+}
+.links a{
+    font-size: small;
+}
+.footer-text h5{
+    margin-top: 3%;
+    text-align: center;
+    border-bottom: 2px solid #F86A61;
+    margin: 2% 40%;
+}
+.footer-text h2{
+    margin-top: -2%;
+    font-weight: 700;
+}
+.footer-image ul{
+    margin: 0 43%;
+    margin-top: -4%;
+}
+.footer-image ul li img{
+    width: 30px;
+}
